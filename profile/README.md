@@ -36,8 +36,8 @@ OSpark技术团队
 
 ## 🗂️ 仓库结构
 本组织包含以下主要仓库：
-### [Core](https://github.com/Edge-Music/Core)
-核心代码仓库，包含云享社音乐播放器的主要实现。基于HarmonyOS Next API 15版本开发，提供统一的UI容器和多平台音乐服务连接功能。
+### [Community](https://github.com/Edge-Music/Community)
+社区版核心代码仓库，包含云享社音乐播放器的主要实现。基于HarmonyOS Next API 15版本开发，提供统一的UI容器和多平台音乐服务连接功能。
 **主要功能**:
 - 多平台数据源支持
 - 统一的UI设计
